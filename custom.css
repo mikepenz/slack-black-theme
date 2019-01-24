@@ -298,7 +298,7 @@ ts-jumper input[type="text"]::-webkit-input-placeholder {
   color: var(--text) !important;
 }
 
-#msg_input, #primary_file_button, .p-message_input {
+#msg_input, #primary_file_button, .p-message_input_field {
   background: transparent !important;
   color: var(--text) !important;
   border-color: var(--border-dim) !important;
