@@ -298,7 +298,7 @@ ts-jumper input[type="text"]::-webkit-input-placeholder {
   color: var(--text) !important;
 }
 
-#msg_input, #primary_file_button {
+#msg_input, #primary_file_button, .p-message_input {
   background: transparent !important;
   color: var(--text) !important;
   border-color: var(--border-dim) !important;
@@ -710,7 +710,7 @@ ts-mention.ts_tip:hover
    color: var(--text);
 }
 .p-emoji_picker__preview_text {
-   background-color: var(--bacground-elevated);
+   background-color: var(--background-elevated);
    color: var(--text);
 }
 
